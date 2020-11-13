@@ -6,6 +6,8 @@ Linear Regression: https://github.com/MolchanovPavel96/ML-training-projects/tree
 
 Logistic Regression: https://github.com/MolchanovPavel96/ML-training-projects/tree/logistic-regression
 
-Decision_tree: https://github.com/MolchanovPavel96/ML-training-projects/tree/decision-tree
+Decision Tree: https://github.com/MolchanovPavel96/ML-training-projects/tree/decision-tree
 
-Random forest: https://github.com/MolchanovPavel96/ML-training-projects/tree/random-forest
+Random Forest: https://github.com/MolchanovPavel96/ML-training-projects/tree/random-forest
+
+Gradient Boosting: https://github.com/MolchanovPavel96/ML-training-projects/tree/gradient-boosting
