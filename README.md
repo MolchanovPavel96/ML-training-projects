@@ -11,3 +11,5 @@ Decision Tree: https://github.com/MolchanovPavel96/ML-training-projects/tree/dec
 Random Forest: https://github.com/MolchanovPavel96/ML-training-projects/tree/random-forest
 
 Gradient Boosting: https://github.com/MolchanovPavel96/ML-training-projects/tree/gradient-boosting
+
+Neural Networks: https://github.com/MolchanovPavel96/ML-training-projects/tree/neural-networks
